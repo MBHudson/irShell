@@ -20,7 +20,7 @@ GCC
 sudo apt install -y gcc
 ```
 
-Linux Debian/Ubuntu
+
 
 
 ## Installation:
