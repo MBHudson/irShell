@@ -2,7 +2,7 @@
 💯% Invisible Reverse TCP Shell Payloads for Linux/Windows 🥷
 
 ## About:
-What I believe to be an original and effective method for creating reverse TCP payloads that are 100% invisible not only to the target but the target's resource/process monitors as well as aports used appear closed. Simple MSFconsole handlers/listeners are then used for callbacks.
+What I believe to be an original and effective method for creating reverse TCP payloads that are 100% invisible not only to the target but the target's resource/process monitors, no PIDs or even open ports are visible. Simple MSFconsole handlers/listeners are then used for callbacks.
 
 
 ## Requirements:
