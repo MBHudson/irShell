@@ -1,5 +1,5 @@
 # irShell
-💯% Invisible Reverse TCP Shell Payloads for Linux/Windows in C. 
+💯% Invisible Reverse TCP Shell Payloads for Linux/Windows 🥷
 
 ## About:
 What I believe to be an original and effective method for creating reverse TCP payloads that are 100% invisible not only to the target but the target's resource/process monitors. Simple MSFconsole handlers/listeners are then used for callbacks.
