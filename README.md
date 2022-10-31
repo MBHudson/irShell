@@ -53,4 +53,4 @@ run
 
 - [ ] Persistence without reboot
 - [ ] EXE and Shell formats
-- [ ] All-in-One built-in installation 
+- [ ] All-in-One built-in dependency installation 
