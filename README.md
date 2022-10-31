@@ -30,7 +30,7 @@ sudo apt install -y gcc
 ## Installation:
 
 ```
-git clone https://github.com/MBHudson/irShell.git && cd irShell && sudo gcc irShell.c -o irShell && chmod +x irShell
+git clone https://github.com/MBHudson/irShell.git && cd irShell && sudo gcc irShell.c -o irShell && sudo chmod +x irShell
 ```
 
 ## Usage:
