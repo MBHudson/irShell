@@ -47,3 +47,9 @@ git clone https://github.com/MBHudson/irShell.git && cd irShell && sudo gcc irSh
 ```
 sudo ./irShell
 ```
+
+## TODO
+
+- [ ] Persistence without reboot
+- [ ] EXE and Shell formats
+- [ ] All-in-One built-in installation 
